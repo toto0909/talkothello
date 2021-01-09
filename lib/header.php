@@ -1,6 +1,6 @@
 <!-- header -->
 <header>
-  <nav class="navbar navbar-expand-lg header fixed-top">
+  <nav class="navbar navbar-expand-lg fixed-top navbar-light" style="background-color:#fff;">
     <a href="../index.php"><img class="navbar-brand" src="../src/img/logo.png"></a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav2" aria-controls="navbarNav2" aria-expanded="false" aria-label="Toggle navigation">
@@ -10,17 +10,16 @@
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav2">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="/index.php">トップ<br />Event
-            <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="/index.php">トップ<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/othello.php">ゲームスタート<br />Member</a>
+          <a class="nav-link" href="/othello.php">ゲームスタート</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/rule.php">ルール<br />Request</a>
+          <a class="nav-link" href="/rule.php">ルール</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/score.php">ハイスコア<br />Request</a>
+          <a class="nav-link" href="/score.php">ハイスコア</a>
         </li>
       </ul>
     </div>

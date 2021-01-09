@@ -26,12 +26,12 @@
     <main>
         <!-- SP版 -->
         <div class="d-block d-sm-none">
-            <div class="container mb-3 mt-3">
+            <div class="container mb-3 mt-3 text-center">
                 <img src="/src/img/othello.jpeg" alt="othello" width="300" height="250">
             </div>
         </div>
         <!-- PC版 -->
-        
+
 
     </main>
 </body>
