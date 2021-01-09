@@ -30,9 +30,15 @@
                 <img src="/src/img/othello.jpeg" alt="othello" width="300" height="250">
             </div>
             <div class="text-center mb-2 mt-2">
-                <button type="button" class="btn btn-success">ゲームスタート</button>
-                <button type="button" class="btn btn-success">ルール</button>
-                <button type="button" class="btn btn-success">ハイスコア</button>
+                <a href="othello.php">
+                    <button type="button" class="btn btn-success">ゲームスタート</button>
+                </a>
+                <a href="rule.php">
+                    <button type="button" class="btn btn-success">ルール</button>
+                </a>
+                <a href="score.php">
+                    <button type="button" class="btn btn-success">ハイスコア</button>
+                </a>
             </div>
         </div>
         <!-- PC版 -->
