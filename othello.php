@@ -151,13 +151,11 @@
             <div>
                 <div class="row">
                     <div class="col-6">
-                        <p style="color: #000000;">●</p>
-                        <p>スコア</p><br>
+                        <p>● スコア</p>
                         <p>00000</p>
                     </div>
                     <div class="col-6">
-                        <p style="color: #FFFFFF;">●</p>
-                        <p>スコア</p><br>
+                        <p>○ スコア</p>
                         <p>00000</p>
                     </div>
                 </div>
