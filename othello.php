@@ -150,15 +150,18 @@
             </div>
             <div>
                 <div class="row">
-                    <div class="col-6">
+                    <div class="col-6 text-center">
                         <p>● スコア</p>
                         <p>00000</p>
                     </div>
-                    <div class="col-6">
+                    <div class="col-6 text-center">
                         <p>○ スコア</p>
                         <p>00000</p>
                     </div>
                 </div>
+            </div>
+            <div class="container">
+                <p class="text-center">現在の話題</p>
             </div>
 
         </div>
