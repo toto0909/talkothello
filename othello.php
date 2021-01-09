@@ -28,122 +28,122 @@
         <div class="d-block d-sm-none">
             <div class="container" style="background-color: #009933;">
                 <div class="row">
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
+                        <p>●</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>●</p>
+                    </div>
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
-                        <p>area</p>
-                    </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
+                        <p>●</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>●</p>
+                    </div>
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                </div>
+                <div class="row">
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
-                    <div class="col border">
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
+                        <p>area</p>
+                    </div>
+                    <div class="col-2 border">
                         <p>area</p>
                     </div>
                 </div>
